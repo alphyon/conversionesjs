@@ -1,0 +1,65 @@
+body{
+  font-family: 'Play', sans-serif;
+  font-size:16px;
+  background:#283D3B;
+  color:#EDDDD4;
+
+}
+
+#contenedor{
+  width:320px;
+  margin:0 auto 0 auto;
+  border:1px solid;
+}
+
+#titulo{
+  font-family:Lobster;
+  padding:0.5em;
+  color:#EEE82C;
+font-size:2em;
+background:#EDDDD4;
+margin:0;
+text-align:center;
+text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+}
+
+#cuerpecito{
+  font-size:1.3em;
+  padding:1em;
+  margin:0;
+  background:#197278;
+}
+
+#resultado{
+  font-family:Lobster;
+  background:#C44536;
+  font-size:1.5em;
+  text-align:center;
+  font-weight:bold;
+  color:#EDDDD4;
+  text-shadow: 1px 1px 2px black;
+}
+
+#centrado{
+  text-align:center;
+}
+
+input[type="text"]{
+  width:3em;
+  font-size:2em;
+  text-align:center;
+  border-radius:5px;
+
+}
+input[type="text"]:focus{
+  width:3em;
+  font-size:2em;
+  text-align:center;
+  border-radius:5px;
+  box-shadow: 1px 1px 10px #00f;
+}
+
+select{
+  font-size:1.3em;
+  font-family: 'Play', sans-serif;
+}
