@@ -49,6 +49,8 @@ input[type="text"]{
   font-size:2em;
   text-align:center;
   border-radius:5px;
+  font-family: 'Play', sans-serif;
+  font-weight:bold;
 
 }
 input[type="text"]:focus{
